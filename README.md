@@ -33,7 +33,7 @@ upyun: {
 ##如何部署：
 
 * 注册登录[Coding.net](http://coding.net)
-* Fork https://coding.net/u/tayuo/p/Ghost-On-Coding-Paas/
+* Fork https://coding.net/u/tayuo/p/Ghost-On-Coding-Paas-with-Upyun/
 * 进入`演示` - `开始检测` - 勾选已阅读...并点`开启功能` - 设置`访问域名`，点保存
 
 ![](http://dn-tucdn.qbox.me/Px.png)
