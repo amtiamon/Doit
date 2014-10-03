@@ -1,4 +1,4 @@
-Ghost 0.5.2 with Upyun Support
+Ghost 0.5.2 with Upyun Support From https://github.com/sanddudu/ghost-0.5.2-upyun
 =================
 
 介绍
@@ -66,6 +66,7 @@ upyun: {
     
   ```
   **由于测试时因不明原因导致错误，请在测试后再放入生产环境**
+  
 * `content/images` 目录必须设置正确的写权限。
 * 该版本**仅在 Ghost 0.5.2 下测试通过**，理论上兼容 0.5.x ，请自行测试
 * 如果您在启动时自行定义配置文件地址（即以 Node 模块启动后传入 config 对象），请不要使用该版本，该版本仅兼容非配置文件自定义的 Ghost。
